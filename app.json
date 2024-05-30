@@ -42,7 +42,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"arbab38",
       "required":false
 
     } ,
@@ -65,13 +65,13 @@
      "required" :false
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME",
+    "description": "arbab38",
      "required" :false
     }  
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID , make sure it starts with Gifted;;; or GIFTED;;; or SESSION_",   
+      "description":"Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0tYUnlaN0U2VnA5NWg2T2VjN294a3RVakw5NTh0UjhFWVFCV3FHbUgwVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSWh6U3lXeWN1Z2lZSmtzUFVIU0piYkxpSEw4SzZJbktxSWJJMXlCSytUTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ1UEF0dmFCOXh5K014YitBNlhCd1RrQnBjMmt6aFpJWWtJb0V1bE1Oc2w4PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrWFd6RUNlczFoOGc5enFFeSthcG9TbC9WcnN5WWd3UkRNSDNGNDYrTXdnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdBaTJ5cW16SEpJNFV2UU9zbU5GNUhVZzRlK3ZkTWRLb2d5S2JQd2NrbHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImliaTc2aUtGemNBVU55WS9jd3NtL3R6ZGRFcklqaG5meHhpTlVtb042bGM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkZDZ2hrOFIwVDY5R3FVeHBkRDVaZVhhWlFyR1BreDJVeGtHdzc1V1dIWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZW1ReXc4bmR1ZFI4ZzZaWWFZTEJkMmlqTThHWnRYRmFHcWRjRHVCa3JpVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii9kV3pUVUlOV2JsVzN1RC9BcGRWREdDYmxUS2lTanpxUkkvYk9nVWFUWjVBQ1c2bE9xT1J0R0pXYTBBWVBnckRJdldETkVXOHYwWk9lYk16MHBObkFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTkzLCJhZHZTZWNyZXRLZXkiOiJpSnhYWk1lSUVDTlZqNytlSnNvbHhrMjNuZnNUK2dBaUJJa05Gc1NrU1VBPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ5ckpseHFRSFNNZVFMRDNtXzdhU1F3IiwicGhvbmVJZCI6ImQ4MWFkOGQxLTNiZjctNGQ1Yi05ZTliLTljNmFiNjA2Y2MzZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ4OVNzT1VzeThLdFBZR3p2TnAvVVkzZG9ZSlU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMXZiSC9nUWZoRDBvcGc0TnZxcDVaY2JoOHE4PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IllGTkw4VFBDIiwibWUiOnsiaWQiOiI5MjMwNjE2MDcxMTY6MzdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiQVJfS0lORyJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSTNDMjhFSEVNT1o0TElHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiUnJIRTlnQXdtZEtxWSs1WDUxYytoZU1qbHBNeGRqKzNDMGdkMWJQaWprQT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiLzUrei9uNFJSZnNBVDFVRk5ONml2M25NSlFhU1ROSG5pV29ieG5wcEl6Snk5dkV6Mm9DYVA2MWpoTWQvYXhFa1ZIVHB3eld6QVBBc0ZhR0pMOEcxQnc9PSIsImRldmljZVNpZ25hdHVyZSI6IkJZZS93ekR1QWZkZ1RmZ1FKb1ExaEc2QTdEQi9CZlE3ZldMM0VIN3NuVUxsbEIvemYzUjFjNk56QjRyenUzWHhlbFJDMmhNdmFjQUxwQXpRT3ZNRkFBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTIzMDYxNjA3MTE2OjM3QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlVheHhQWUFNSm5TcW1QdVYrZFhQb1hqSTVhVE1YWS90d3RJSGRXejRvNUEifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTcwNDY0ODF9",   
       "value":"",
       "required": true
 
@@ -81,20 +81,20 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Gifted Tech"
+    "value": "AR KING"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254728782591,254762016957"
+    "value": "923061607116"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
     "CHAT_BOT":
     {
